@@ -6,4 +6,6 @@ I will change the sentence here and cause a conflict
 
 Test 1 
 
-Test 2 
+Test 3
+
+Another test
