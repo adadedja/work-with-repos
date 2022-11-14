@@ -2,4 +2,8 @@
 
 This should have been named throwaway :D 
 
-Will work on merging and resolving conflicts
+I will change the sentence here and cause a conflict
+
+Test 1 
+
+Test 2 
